@@ -7,7 +7,7 @@ namespace ISM4300MYFIRSTAPP
         static void Main(string[] args)
         {
             Console.WriteLine("This is my first Console App");
-            Console.WriteLine("I am learning how to publish to GutHub.");
+            Console.WriteLine("I am learning how to publish to GitHub.");
         }
     }
 }
